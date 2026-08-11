@@ -1,7 +1,10 @@
 # Airline Reservation System
 
 A full-stack airline reservation web application built with **Java Servlets, JSP, JDBC, MySQL, HTML, CSS and JavaScript**.
+### 🔗 Links
 
+- **Live Demo:** https://airline-reservation-system-zhnj.onrender.com
+- **GitHub:** https://github.com/Mahipal30/Airline-reservation-system
 This project is suitable for a fresher portfolio/resume and demonstrates:
 - User registration and login
 - Secure password hashing with BCrypt
