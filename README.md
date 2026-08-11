@@ -293,6 +293,25 @@ For MySQL, Railway currently provides a MySQL service and exposes variables such
 
 For a resume project, deploy the application backend on Render and use Railway/Aiven MySQL as the database.
 
+## 🚀 Deployment
+
+### Option 1: Run Locally with Apache Tomcat
+
+#### Prerequisites
+
+Install:
+
+- Java 17
+- Maven 3.9+
+- MySQL 8.0
+- Apache Tomcat 9
+
+#### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/airline-reservation-system.git
+cd airline-reservation-system
+
 ## 10. Resume description
 
 **Airline Reservation System | Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript**
